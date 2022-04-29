@@ -1,6 +1,6 @@
 # react-native-fs
 
-Native filesystem access for react-native
+Native filesystem access for react-native.
 
 ## IMPORTANT
 
